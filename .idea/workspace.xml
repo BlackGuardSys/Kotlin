@@ -21,11 +21,23 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="KotlinRecyclerViewExample" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iHtvVyfXiJ3hHWSknn0BdRF6Yk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -117,10 +129,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="185" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601578050151" />
-    <state x="718" y="291" key="AndroidCreateResourceFileDialog" timestamp="1601576998829">
+    <state x="718" y="291" key="AndroidCreateResourceFileDialog" timestamp="1602180093531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="718" y="291" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601576998829" />
+    <state x="718" y="291" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602180093531" />
     <state x="996" y="349" key="AndroidCreateXmlResourceDialog" timestamp="1601577001631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -129,21 +141,45 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="918" y="291" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601580904133" />
-    <state width="1340" height="258" key="GridCell.Tab.0.bottom" timestamp="1601580856469">
+    <state width="1340" height="307" key="GridCell.Tab.0.bottom" timestamp="1602188826016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601580856469" />
-    <state width="1340" height="258" key="GridCell.Tab.0.center" timestamp="1601580856469">
+    <state width="1340" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602188826016" />
+    <state width="1340" height="307" key="GridCell.Tab.0.center" timestamp="1602188826016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601580856469" />
-    <state width="1340" height="258" key="GridCell.Tab.0.left" timestamp="1601580856469">
+    <state width="1340" height="307" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602188826016" />
+    <state width="1340" height="307" key="GridCell.Tab.0.left" timestamp="1602188826016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601580856469" />
-    <state width="1340" height="258" key="GridCell.Tab.0.right" timestamp="1601580856469">
+    <state width="1340" height="307" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602188826016" />
+    <state width="1340" height="307" key="GridCell.Tab.0.right" timestamp="1602188826016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601580856469" />
+    <state width="1340" height="307" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602188826016" />
+    <state width="1340" height="307" key="GridCell.Tab.1.bottom" timestamp="1602188826016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="307" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602188826016" />
+    <state width="1340" height="307" key="GridCell.Tab.1.center" timestamp="1602188826016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="307" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602188826016" />
+    <state width="1340" height="307" key="GridCell.Tab.1.left" timestamp="1602188826016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="307" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602188826016" />
+    <state width="1340" height="307" key="GridCell.Tab.1.right" timestamp="1602188826016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="307" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602188826016" />
+    <state x="806" y="187" key="SettingsEditor" timestamp="1602171944673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="187" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602171944673" />
+    <state x="604" y="275" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602187886114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="604" y="275" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1602187886114" />
   </component>
 </project>

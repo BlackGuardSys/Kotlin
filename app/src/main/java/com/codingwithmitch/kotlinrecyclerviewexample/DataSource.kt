@@ -6,6 +6,8 @@ class DataSource{
 
     companion object{
 
+        lateinit var adapter: BlogRecyclerAdapter
+
         fun createDataSet(): ArrayList<BlogPost>{
             val list = ArrayList<BlogPost>()
             list.add(
@@ -13,8 +15,7 @@ class DataSource{
                     "Repository",
                     "",
                     "https://look.com.ua/pic/201712/1920x1200/look.com.ua-263616.jpg",
-                    "NAME",
-                    "https://github.com/trending"
+                    "NAME"
                 )
             )
             list.add(
@@ -22,8 +23,7 @@ class DataSource{
                     "Repository",
                     "",
                     "https://look.com.ua/pic/201712/1920x1200/look.com.ua-263616.jpg",
-                    "NAME",
-                    "https://github.com/trending"
+                    "NAME"
                 )
             )
 
@@ -32,8 +32,7 @@ class DataSource{
                     "Repository",
                     "",
                     "https://look.com.ua/pic/201712/1920x1200/look.com.ua-263616.jpg",
-                    "NAME",
-                    "https://github.com/trending"
+                    "NAME"
                 )
             )
             list.add(
@@ -41,8 +40,7 @@ class DataSource{
                     "Repository",
                     "",
                     "https://look.com.ua/pic/201712/1920x1200/look.com.ua-263616.jpg",
-                    "NAME",
-                    "https://github.com/trending"
+                    "NAME"
                 )
             )
             list.add(
@@ -50,8 +48,7 @@ class DataSource{
                     "Repository",
                     ".",
                     "https://look.com.ua/pic/201712/1920x1200/look.com.ua-263616.jpg",
-                    "NAME",
-                    "https://github.com/trending"
+                    "NAME"
                 )
             )
             list.add(
@@ -59,8 +56,7 @@ class DataSource{
                     "Repository",
                     "",
                     "https://look.com.ua/pic/201712/1920x1200/look.com.ua-263616.jpg",
-                    "NAME",
-                    "https://github.com/trending"
+                    "NAME"
                 )
             )
             list.add(
@@ -68,8 +64,7 @@ class DataSource{
                     "Repository",
                     "",
                     "https://look.com.ua/pic/201712/1920x1200/look.com.ua-263616.jpg",
-                    "NAME",
-                    "https://github.com/trending"
+                    "NAME"
                 )
             )
             list.add(
@@ -77,8 +72,7 @@ class DataSource{
                     "Repository",
                     "",
                     "https://look.com.ua/pic/201712/1920x1200/look.com.ua-263616.jpg",
-                    "NAME",
-                    "https://github.com/trending"
+                    "NAME"
                 )
             )
             list.add(
@@ -87,8 +81,7 @@ class DataSource{
                     "Repository",
                     "",
                     "https://look.com.ua/pic/201712/1920x1200/look.com.ua-263616.jpg",
-                    "NAME",
-                    "https://github.com/trending"
+                    "NAME"
                 )
             )
             return list
